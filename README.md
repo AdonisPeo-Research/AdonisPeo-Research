@@ -31,42 +31,6 @@ Here are a few key projects I'm working on:
 
 - **Status:** Active
 
-### 2. **Stellar Spectrometry**
-
-- **Description:** A completed project on stellar spectrometry aimed at analyzing the light spectra from stars to determine their composition, temperature, and other properties. The project includes both theoretical aspects and practical spectrometry data analysis.
-
-- **Key Features:**
-    - Spectral analysis of starlight
-    - Identification of stellar composition and properties
-
-- **Tech Stack:** Python, MATLAB, Spectrometry tools
-
-- **Status:** Completed
-
-### 3. **Flight Controller Based on RP2350/4 For Low Power Model Rockets with Assisted Flight**
-
-- **Description:** Developing a flight controller for model rockets using RP2350/4, focusing on low power consumption and assisted flight control.
-
-- **Key Features:**
-    - Real-time data processing for flight control
-    - Assisted flight for low-power model rockets
-
-- **Tech Stack:** Raspberry Pi, Python, Arduino
-
-- **Status:** In Progress
-
-### 4. **Magneto-Plasma-Dynamic Propulsion**
-
-- **Description:** Researching and developing a magneto-plasma-dynamic propulsion system, aimed at optimizing propulsion efficiency using different gas mediums.
-
-- **Key Features:**
-    - Gas selection for efficient propulsion
-    - Simulation and design of MPD systems
-
-- **Tech Stack:** CFD, Python
-
-- **Status:** In Progress
-
 ## **Skills & Technologies**
 
 - **Programming Languages:** Python, C/C++, MATLAB
@@ -91,3 +55,4 @@ Feel free to reach out if you're interested in working together!
 
 - **Email:** [adonispeo.research@gmail.com](mailto:adonispeo.research@gmail.com)
 - **GitHub:** [github.com/AdonisPeo-Research](https://github.com/AdonisPeo-Research)
+- **ORCID:** [orcid.org/0009-0006-1747-5979](https://orcid.org/0009-0006-1747-5979)
