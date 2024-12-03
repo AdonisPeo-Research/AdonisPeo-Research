@@ -44,11 +44,11 @@ Here’s the **TL;DR** of what this repository offers:
 ## 🎮 How to Play
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/AdonisPeo-Research/AdonisPeo-Research.git
+   git clone https://github.com/AdonisPeo-Research/Projects.git
    ```
 2. Navigate into the project folder:  
    ```bash
-   cd AdonisPeo-Research
+   cd Projects
    ```
 3. Install dependencies (Python users, this one’s for you):  
    ```bash
